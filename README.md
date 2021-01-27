@@ -12,6 +12,10 @@ Nullish coalescing operator
 Conditional (ternary) operator
 [doc](https://developer.mozilla.org/en-us/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
 
+## Double NON Logique
+Double bang :gun: 
+[doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT#double_not_!!)
+
 ## ET Logique 
 Logical AND
 [doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND)
