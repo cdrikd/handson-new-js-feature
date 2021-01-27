@@ -3,7 +3,7 @@
 // ??
 // map, filter reduce  
 // ternary opérator
-// || &&
+// || &&   ex: (a || []).map()
 // Object Freeze sur les constantes avce const .. et map qui altère la const s'en s'en rendre compte
 // ?.  sur variable, sur fonction rer?.()
 // ...(cond ? {propd:value} : {})
