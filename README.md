@@ -4,6 +4,14 @@
 Methods of Array
 [doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
+## ET Logique 
+Logical AND
+[doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND)
+
+## OU Logique
+Logical OR
+[doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR)
+
 ## Opérateur de coalescence des nuls 
 Nullish coalescing operator
 [doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
@@ -15,14 +23,6 @@ Conditional (ternary) operator
 ## Double NON Logique
 Double bang :gun: 
 [doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT#double_not_!!)
-
-## ET Logique 
-Logical AND
-[doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND)
-
-## OU Logique
-Logical OR
-[doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR)
  
 ## Immutabilité
 [doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze)
