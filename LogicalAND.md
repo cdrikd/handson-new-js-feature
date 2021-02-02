@@ -5,10 +5,20 @@
 ## Dans une structure conditionnel
 
 ```javascript
-
+const elt = 'rr'
+const newElt = 23
+if (elt && newElt) {
+  
+}
 ```
 
-## Pour une affectation 
+## Dans une affectation 
+
+Si `expr1` vaut `true` alors `elt`  vaut `expr1` sinon `expr2`.
+
+```javascript
+const elt = expr1 && expr2
+```
 
 
 
