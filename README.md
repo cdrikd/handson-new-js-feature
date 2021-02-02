@@ -3,6 +3,22 @@
 ## Opération sur les tableaux (map, filter, reduce)
 Methods of Array
 [doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+[map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+[filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+[reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+
+```js
+const notes = [14.5,8,19.5,19,18,7,10]
+```
+Multiplier chacun des éléments par 2, filtrer en ne gardant que les éléments pair et retourner la somme des valeurs restantes.
+
+```js
+const average = notes
+                  .map(note => note * 2)
+                  .filter(note => note % 2 === 0)
+                  .reduce((acc, curr) => acc + curr, 0)
+```
+                 
 
 ## ET Logique 
 Logical AND
