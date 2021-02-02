@@ -17,6 +17,8 @@ if (elt && newElt) {
 Si `expr1` vaut `true` alors `elt`  vaut `expr1` sinon `expr2`.
 
 ```javascript
+const expr1 = undefined
+const expr2 = 'val'
 const elt = expr1 && expr2
 ```
 

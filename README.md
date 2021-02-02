@@ -61,8 +61,8 @@ Template literals
 
 ___
 
-## Bonnes pratiques
-Array includes [doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+- [Bonnes pratiques](./jsTips.md)
+
 
 ```
 //Fonctionnalité avancées et bonnes pratiques. 
