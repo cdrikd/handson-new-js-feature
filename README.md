@@ -22,7 +22,9 @@ const average = notes
 
 ## ET Logique 
 Logical AND
-[doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND)
+
+- [ET logique (`&&`)](./LogicalAND.md)
+- [OU logique (`||`)](./LogicalOR.md)
 
 ## OU Logique
 Logical OR

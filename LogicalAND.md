@@ -8,13 +8,19 @@
 const elt = 'rr'
 const newElt = 23
 if (elt && newElt) {
-  
+   //...
 }
 ```
 
+// Logical AND operation
+true  && true;  // true
+true  && false; // false
+false && true;  // false
+false && false; // false
+
 ## Dans une affectation 
 
-Si `expr1` vaut `true` alors `elt`  vaut `expr1` sinon `expr2`.
+Si `expr1` vaut `true` alors `elt`  vaut `expr2` sinon `expr1`.
 
 ```javascript
 const expr1 = undefined
