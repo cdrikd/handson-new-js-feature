@@ -18,25 +18,18 @@ const average = notes
                   .filter(note => note % 2 === 0)
                   .reduce((acc, curr) => acc + curr, 0)
 ```
-                 
 
-## ET Logique 
-Logical AND
+## L'opérateur conditionnel | ternaire 
+Conditional (ternary) operator
+[doc](https://developer.mozilla.org/en-us/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)                 
+
+## Les opérateurs logiques 
 
 - [ET logique (`&&`)](./LogicalAND.md)
 - [OU logique (`||`)](./LogicalOR.md)
 
-## OU Logique
-Logical OR
-[doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR)
-
 ## Opérateur de coalescence des nuls 
-Nullish coalescing operator
-[doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
-
-## L'opérateur conditionnel | ternaire 
-Conditional (ternary) operator
-[doc](https://developer.mozilla.org/en-us/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+[Opérateur `??`](./NullishCoalescing.md)
 
 ## Double NON Logique
 Double bang :gun: 
